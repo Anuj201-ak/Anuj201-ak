@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/Anuj201-ak">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnuj201-ak&count_bg=%237D32A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=Anuj201-ak&label=Profile%20Views&labelColor=%23555555&countColor=%237d32a8" alt="Visitor Badge" />
     </a>
   </p>
 
@@ -49,11 +49,13 @@
 
   ---
 
-  ### 📊 GitHub Stats
+  ### 🏆 GitHub Activity
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anuj201-ak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj201-ak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj201-ak&theme=tokyonight&hide_border=true&background=0D1117" alt="Anuj's Streak" />
+    <br/>
+    <br/>
+    <img src="https://github-profile-trophies.vercel.app/?username=Anuj201-ak&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
   </div>
 
   ---
