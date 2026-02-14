@@ -16,13 +16,13 @@
   * 🔭 **Currently Working On:** Building a personal Portfolio and a Weather App.
   * 🌱 **Currently Learning:** Deepening my knowledge in **React.js** and **Node.js**.
   * 🎯 **Goal:** To solve real-world problems through code and land a full-time role.
-
+ <a href="https://https://anuj201-ak.github.io/anuj-portfolio/">
+    My Portfolio
+    </a>
+  <div align="center">
   ---
 
   ### 🛠️ Tech Stack & Tools
- <a href="https://https://anuj201-ak.github.io/anuj-portfolio/"><h2>My Portfolio</h2>
-    </a>
-  <div align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
