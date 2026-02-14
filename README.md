@@ -3,12 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,23272d,7d32a8&height=250&section=header&text=Anuj%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Gamer&descAlignY=60" width="100%" alt="Header" />
 
   ### 🎓 MCA Graduate | 💻 Aspiring Full Stack Developer
-
- <a href="https://https://anuj201-ak.github.io/anuj-portfolio/">
-   <p align="center">
+ <p align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=Anuj201-ak&label=Profile%20Views&labelColor=%23555555&countColor=%237d32a8" alt="Visitor Badge" />
   </p>
-    </a>
+
   ---
 
   ### ⚡ About Me
@@ -22,7 +20,8 @@
   ---
 
   ### 🛠️ Tech Stack & Tools
-
+ <a href="https://https://anuj201-ak.github.io/anuj-portfolio/"><h2>My Portfolio</h2>
+    </a>
   <div align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
