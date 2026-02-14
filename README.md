@@ -4,10 +4,11 @@
 
   ### 🎓 MCA Graduate | 💻 Aspiring Full Stack Developer
 
-  <p align="center">
+ <a href="https://https://anuj201-ak.github.io/anuj-portfolio/">
+   <p align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=Anuj201-ak&label=Profile%20Views&labelColor=%23555555&countColor=%237d32a8" alt="Visitor Badge" />
   </p>
-
+    </a>
   ---
 
   ### ⚡ About Me
