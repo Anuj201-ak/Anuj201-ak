@@ -16,7 +16,7 @@
   * 🔭 **Currently Working On:** Building a personal Portfolio and a Weather App.
   * 🌱 **Currently Learning:** Deepening my knowledge in **React.js** and **Node.js**.
   * 🎯 **Goal:** To solve real-world problems through code and land a full-time role.
- <a href="https://https://anuj201-ak.github.io/anuj-portfolio/">
+ <a href="https://anuj201-ak.github.io/anuj-portfolio/">
     My Portfolio
     </a>
   <div align="center">
